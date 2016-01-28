@@ -1,4 +1,4 @@
-# JavaScript ES6 Abstaract Data Types Classes
+# JavaScript ES6 Abstract Data Types Classes
 
 ## Installation
 
