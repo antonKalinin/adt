@@ -1,4 +1,12 @@
-# JavaScript ES6 Abstaract Data Types Classes 
+# JavaScript ES6 Abstaract Data Types Classes
+
+## Installation
+
+```bash
+npm install antonKalinin/adt-classes --save
+```
+
+## Usage
 
 ```js
 var ADT = require('adt-classes'),
