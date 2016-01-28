@@ -1,0 +1,28 @@
+{
+  "name": "adt-classes",
+  "description": "Abstract data types",
+  "version": "0.1.0",
+  "author": "Anton Kalinin <hurricanebox@gmail.com>",
+  "license": "MIT",
+  "repository": "antonKalinin/adt-classes",
+  "keywords": [
+    "adt",
+    "abstract",
+    "data",
+    "types",
+    "graph",
+    "heap",
+    "binary-heap",
+    "tree",
+    "queue"
+  ],
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ]
+}
