@@ -1,10 +1,10 @@
 {
-  "name": "adt-classes",
+  "name": "adt",
   "description": "Abstract data types",
   "version": "0.1.0",
   "author": "Anton Kalinin <hurricanebox@gmail.com>",
   "license": "MIT",
-  "repository": "antonKalinin/adt-classes",
+  "repository": "antonKalinin/adt",
   "keywords": [
     "adt",
     "abstract",

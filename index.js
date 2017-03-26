@@ -4,4 +4,4 @@ module.exports = {
     BinaryHeap: require('./lib/BinaryHeap'),
     Matrix: require('./lib/Matrix'),
     Queue: require('./lib/Queue')
-}
+};
